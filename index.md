@@ -40,8 +40,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <div id="commentit"></div>
 <script type="text/javascript">
   /** CONFIGURATION VARIABLES **/
-  var commentitUsername = 'dizhi8';
-  var commentitRepo = 'dizhi8/dizhi8.github.io';
+  var commentitUsername = 'giae';
+  var commentitRepo = 'giae/giae.github.io';
   var commentitPath = '{{ page.path }}';
 
   /** DON'T EDIT FOLLOWING LINES **/
