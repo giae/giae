@@ -35,3 +35,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<noscript>Please enable JavaScript to view the comment form powered by <a href="https://commentit.io/">Comm(ent|it)</a></noscript>
+<div id="commentit"></div>
+<script type="text/javascript">
+  /** CONFIGURATION VARIABLES **/
+  var commentitUsername = 'dizhi8';
+  var commentitRepo = 'dizhi8/dizhi8.github.io';
+  var commentitPath = '{{ page.path }}';
+
+  /** DON'T EDIT FOLLOWING LINES **/
+  (function() {
+      var commentit = document.createElement('script');
+      commentit.type = 'text/javascript';
+      commentit.async = true;
+      commentit.src = 'https://commentit.io/static/embed/dist/commentit.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(commentit);
+  })();
+</script>
